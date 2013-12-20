@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profileable_id: 1
+  profileable_type: 1
+  name: MyString
+  avatar: MyString
+  about: MyText
+
+two:
+  profileable_id: 1
+  profileable_type: 1
+  name: MyString
+  avatar: MyString
+  about: MyText
